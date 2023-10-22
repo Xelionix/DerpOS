@@ -1,0 +1,53 @@
+DERPOS PROPRIETARY LICENSE
+
+Version 1.0
+
+Effective Date: [Date]
+
+1. DEFINITIONS
+
+"DerpOS" refers to the proprietary operating system developed by Roman Traudt.
+"Licensee" refers to any person or entity that obtains a copy of DerpOS under the terms of this license.
+2. LICENSE GRANT
+
+Roman Traudt grants the Licensee a non-exclusive, non-transferable, and limited license to use, install, and run DerpOS, subject to the terms and conditions of this license.
+
+3. RESTRICTIONS
+
+Licensee is explicitly prohibited from:
+
+3.1. Modifications: Licensee shall not modify, reverse engineer, decompile, or disassemble DerpOS.
+
+3.2. Distribution: Licensee shall not distribute DerpOS to any third party without prior written consent from Roman Traudt.
+
+3.3. Derivative Works: Licensee shall not create derivative works based on DerpOS.
+
+3.4. Sublicensing: Licensee shall not sublicense or transfer this license to any third party.
+
+4. INTELLECTUAL PROPERTY
+
+Licensee acknowledges that DerpOS is the intellectual property of Roman Traudt, and this license does not transfer any rights or ownership in the software.
+
+5. SUPPORT & UPDATES
+
+Roman Traudt is under no obligation to provide support, maintenance, or updates for DerpOS under this license.
+
+6. TERMINATION
+
+This license is effective until terminated. It may be terminated by Roman Traudt if Licensee fails to comply with the terms and conditions herein. Upon termination, Licensee must cease all use of DerpOS.
+
+7. DISCLAIMER
+
+DERPOS IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. Roman Traudt DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+
+Roman Traudt SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE DERPOS.
+
+9. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with the laws of Texas.
+
+10. ENTIRE AGREEMENT
+
+This license constitutes the entire agreement between Licensee and Roman Traudt concerning DerpOS and supersedes all prior agreements, whether oral or written.
