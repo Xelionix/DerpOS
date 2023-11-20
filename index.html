@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DerpOS - Your Innovative Operating System</title>
+    <title>DerpOS</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -88,8 +88,8 @@ In conclusion, DerpOS goes beyond the conventional operating system, offering a 
         <h2>Download DerpOS</h2>
         <button id="downloadButton" onclick="downloadDerpOS()">Download Now</button>
 
-        <h2>Google Login</h2>
-        <button id="googleLoginButton" onclick="loginWithGoogle()">Login with Google</button>
+        <h2>Login</h2>
+        <button onclick="redirectLogin()">Login</button>
     </main>
 
     <script>
@@ -98,9 +98,9 @@ In conclusion, DerpOS goes beyond the conventional operating system, offering a 
             alert('Download functionality will be added in the future.');
         }
 
-        function loginWithGoogle() {
-            // Implement Google login logic here
-            alert('Google login functionality will be added in the future.');
+        function redirectLogin() {
+            // Redirect to the login page
+            window.location.href = 'login.html';
         }
     </script>
 </body>
